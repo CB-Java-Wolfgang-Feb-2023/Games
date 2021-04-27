@@ -1,2 +1,2 @@
 # Games
-Stream Exercise
+Instructions are inside the code as TODOs.
