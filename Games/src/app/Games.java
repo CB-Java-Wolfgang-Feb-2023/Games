@@ -19,7 +19,7 @@ import static java.util.stream.Collectors.toList;
 
 public class Games {
 
-    private static final Path CSV = Paths.get("games.csv");
+    private static final Path CSV = Paths.get("Games/games.csv");
     private static final String BUNDESLIGA = "BUNDESLIGA";
     private static final String BAYERN = "FC Bayern Muenchen";
 
