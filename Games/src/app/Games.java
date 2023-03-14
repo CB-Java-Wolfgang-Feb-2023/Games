@@ -35,7 +35,7 @@ public class Games {
 
         // -------------------
 
-        // TODO: Wie viele Spiele sind Bundesliga Spiele? Bundesliga ist ein Enum, kein String. (contain BUNDESLIGA)?
+        // TODO: Wie viele Spiele sind Bundesliga Spiele?
         // (Lösung mit filter)
 
         long bundesligaGameCount = -1;
